@@ -1,0 +1,135 @@
+{
+  "candidate": {
+    "candidate_id": "aditi-sharma-gmail-com",
+    "overall_confidence": 0.97
+  },
+  "fields": [
+    {
+      "field": "full_name",
+      "candidates": [
+        {
+          "value": "ADITI SHARMA",
+          "source": "resume"
+        }
+      ],
+      "selected": "ADITI SHARMA",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Selected longest complete name"
+    },
+    {
+      "field": "emails",
+      "selected": [
+        "aditi.sharma@gmail.com"
+      ],
+      "sources": [
+        "csv"
+      ],
+      "confidence": 0.99,
+      "reason": "Normalized and deduplicated"
+    },
+    {
+      "field": "phones",
+      "selected": [
+        "+919876543210"
+      ],
+      "sources": [
+        "csv"
+      ],
+      "confidence": 0.99,
+      "reason": "Normalized to E.164 and deduplicated"
+    },
+    {
+      "field": "skill:AWS",
+      "selected": "AWS",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:Backend Development",
+      "selected": "Backend Development",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:Django",
+      "selected": "Django",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:Docker",
+      "selected": "Docker",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:Go",
+      "selected": "Go",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:Python",
+      "selected": "Python",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:REST APIs",
+      "selected": "REST APIs",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:SQL",
+      "selected": "SQL",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "education",
+      "selected": 1,
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Concatenated and deduplicated"
+    },
+    {
+      "field": "experience",
+      "selected": 2,
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged and sorted by start date"
+    }
+  ]
+}

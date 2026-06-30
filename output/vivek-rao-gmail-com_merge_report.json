@@ -1,0 +1,30 @@
+{
+  "candidate": {
+    "candidate_id": "vivek-rao-gmail-com",
+    "overall_confidence": 0.75
+  },
+  "fields": [
+    {
+      "field": "emails",
+      "selected": [
+        "vivek.rao@gmail.com"
+      ],
+      "sources": [
+        "csv"
+      ],
+      "confidence": 0.99,
+      "reason": "Normalized and deduplicated"
+    },
+    {
+      "field": "phones",
+      "selected": [
+        "+919988771122"
+      ],
+      "sources": [
+        "csv"
+      ],
+      "confidence": 0.99,
+      "reason": "Normalized to E.164 and deduplicated"
+    }
+  ]
+}

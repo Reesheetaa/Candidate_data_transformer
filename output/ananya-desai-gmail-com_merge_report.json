@@ -1,0 +1,144 @@
+{
+  "candidate": {
+    "candidate_id": "ananya-desai-gmail-com",
+    "overall_confidence": 0.97
+  },
+  "fields": [
+    {
+      "field": "full_name",
+      "candidates": [
+        {
+          "value": "ANANYA DESAI",
+          "source": "resume"
+        }
+      ],
+      "selected": "ANANYA DESAI",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Selected longest complete name"
+    },
+    {
+      "field": "emails",
+      "selected": [
+        "ananya.desai@gmail.com"
+      ],
+      "sources": [
+        "csv"
+      ],
+      "confidence": 0.99,
+      "reason": "Normalized and deduplicated"
+    },
+    {
+      "field": "phones",
+      "selected": [
+        "+919012345678"
+      ],
+      "sources": [
+        "csv"
+      ],
+      "confidence": 0.99,
+      "reason": "Normalized to E.164 and deduplicated"
+    },
+    {
+      "field": "skill:AWS",
+      "selected": "AWS",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:Artificial Intelligence",
+      "selected": "Artificial Intelligence",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:Docker",
+      "selected": "Docker",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:Git",
+      "selected": "Git",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:Machine Learning",
+      "selected": "Machine Learning",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:PyTorch",
+      "selected": "PyTorch",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:Python",
+      "selected": "Python",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:SQL",
+      "selected": "SQL",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:TensorFlow",
+      "selected": "TensorFlow",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "education",
+      "selected": 1,
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Concatenated and deduplicated"
+    },
+    {
+      "field": "experience",
+      "selected": 2,
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged and sorted by start date"
+    }
+  ]
+}

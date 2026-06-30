@@ -1,0 +1,37 @@
+Arjun Iyer
+
+Email
+
+Arjun.Iyer@gmail.com
+
+Phone
+
+99881 23456
+
+Skills
+
+Python
+
+Docker
+
+AWS
+
+REST API
+
+Experience
+
+Software Engineer
+
+CloudEdge
+
+2021 – Present
+
+Built cloud-native backend services.
+
+Education
+
+B.E. Computer Science
+
+Anna University
+
+2021

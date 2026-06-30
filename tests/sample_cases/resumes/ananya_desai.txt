@@ -1,0 +1,60 @@
+ANANYA DESAI
+
+Email:
+ananya.desai@gmail.com
+
+Phone:
++91-90123-45678
+
+Location:
+Pune, Maharashtra
+
+PROFESSIONAL SUMMARY
+
+Machine Learning Engineer with over four years of experience building
+computer vision systems, deploying deep learning models, and designing
+large-scale data pipelines.
+
+TECHNICAL SKILLS
+
+Python | PyTorch | TensorFlow | OpenCV | SQL | Docker | AWS | Git
+
+EXPERIENCE
+
+Machine Learning Engineer
+
+VisionTech Pvt. Ltd.
+
+June 2022 – Present
+
+• Designed defect detection models using CNNs.
+• Improved production inference latency by 30%.
+
+Software Engineer
+
+AI Labs
+
+July 2020 – May 2022
+
+• Built data preprocessing pipelines.
+• Automated model deployment.
+
+PROJECTS
+
+Industrial Defect Detection
+
+Face Attendance System
+
+EDUCATION
+
+B.Tech Computer Engineering
+
+Pune Institute of Computer Technology
+
+2020
+
+CERTIFICATIONS
+
+AWS Certified Cloud Practitioner
+
+TensorFlow Developer Certificate

@@ -1,0 +1,378 @@
+{
+  "candidate": {
+    "candidate_id": "jake-su-edu",
+    "overall_confidence": 0.96
+  },
+  "fields": [
+    {
+      "field": "full_name",
+      "candidates": [
+        {
+          "value": "Jake Ryan",
+          "source": "resume"
+        }
+      ],
+      "selected": "Jake Ryan",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Selected longest complete name"
+    },
+    {
+      "field": "emails",
+      "selected": [
+        "jake@su.edu"
+      ],
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Normalized and deduplicated"
+    },
+    {
+      "field": "phones",
+      "selected": [
+        "+911234567890"
+      ],
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Normalized to E.164 and deduplicated"
+    },
+    {
+      "field": "skill:C",
+      "selected": "C",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:C++",
+      "selected": "C++",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:CSS",
+      "selected": "CSS",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:Docker",
+      "selected": "Docker",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:Eclipse Libraries: pandas",
+      "selected": "Eclipse Libraries: pandas",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:FastAPI",
+      "selected": "FastAPI",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:FastAPI Developer Tools: Git",
+      "selected": "FastAPI Developer Tools: Git",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:Flask",
+      "selected": "Flask",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:Frontend Development",
+      "selected": "Frontend Development",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:Git",
+      "selected": "Git",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:Google Cloud Platform",
+      "selected": "Google Cloud Platform",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:HTML",
+      "selected": "HTML",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:IntelliJ",
+      "selected": "IntelliJ",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:JUnit",
+      "selected": "JUnit",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:Java",
+      "selected": "Java",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:JavaScript",
+      "selected": "JavaScript",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:Languages: Java",
+      "selected": "Languages: Java",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:Material-UI",
+      "selected": "Material-UI",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:Matplotlib",
+      "selected": "Matplotlib",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:Node.js",
+      "selected": "Node.js",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:NumPy",
+      "selected": "NumPy",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:Pandas",
+      "selected": "Pandas",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:PostgreSQL",
+      "selected": "PostgreSQL",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:PyCharm",
+      "selected": "PyCharm",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:Python",
+      "selected": "Python",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:R Frameworks: React",
+      "selected": "R Frameworks: React",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:REST APIs",
+      "selected": "REST APIs",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:React",
+      "selected": "React",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:Redis",
+      "selected": "Redis",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:SQL",
+      "selected": "SQL",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:SQL (Postgres)",
+      "selected": "SQL (Postgres)",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:TravisCI",
+      "selected": "TravisCI",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:VS Code",
+      "selected": "VS Code",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:Visual Studio",
+      "selected": "Visual Studio",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:WordPress",
+      "selected": "WordPress",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "education",
+      "selected": 1,
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Concatenated and deduplicated"
+    },
+    {
+      "field": "experience",
+      "selected": 3,
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged and sorted by start date"
+    }
+  ]
+}

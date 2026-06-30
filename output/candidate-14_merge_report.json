@@ -1,0 +1,17 @@
+{
+  "candidate": {
+    "candidate_id": "candidate-14",
+    "overall_confidence": 0.59
+  },
+  "fields": [
+    {
+      "field": "availability",
+      "selected": "September",
+      "sources": [
+        "notes"
+      ],
+      "confidence": 0.8,
+      "reason": "Recruiter notes preferred"
+    }
+  ]
+}

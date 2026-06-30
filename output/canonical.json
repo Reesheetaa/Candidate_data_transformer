@@ -1,0 +1,2151 @@
+[
+  {
+    "candidate_id": "aditi-sharma-gmail-com",
+    "full_name": "ADITI SHARMA",
+    "emails": [
+      "aditi.sharma@gmail.com"
+    ],
+    "phones": [
+      "+919876543210"
+    ],
+    "location": {
+      "city": null,
+      "region": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": null,
+    "years_experience": 5.4,
+    "skills": [
+      {
+        "name": "AWS",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "Backend Development",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "Django",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "Docker",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "Go",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "Python",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "REST APIs",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "SQL",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": null,
+        "title": null,
+        "start": "2023-06",
+        "end": "present",
+        "summary": "\u2022 Built REST APIs serving over 2 million daily requests. \u2022 Reduced API latency by 35%. \u2022 Developed Dockerized microservices. Software Engineer"
+      },
+      {
+        "company": null,
+        "title": null,
+        "start": "2021-01",
+        "end": "2023-05",
+        "summary": "\u2022 Developed Python microservices. \u2022 Implemented payment workflows."
+      }
+    ],
+    "education": [
+      {
+        "institution": null,
+        "degree": "B.Tech",
+        "field": null,
+        "end_year": null
+      }
+    ],
+    "salary_expectation": null,
+    "availability": null,
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "resume",
+        "method": "longest_string"
+      },
+      {
+        "field": "emails[aditi.sharma@gmail.com]",
+        "source": "csv",
+        "method": "normalize+union"
+      },
+      {
+        "field": "phones[+919876543210]",
+        "source": "csv",
+        "method": "e164_normalize+union"
+      },
+      {
+        "field": "skills[AWS]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[Backend Development]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[Django]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[Docker]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[Go]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[Python]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[REST APIs]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[SQL]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "education",
+        "source": "resume",
+        "method": "concatenate_dedupe"
+      },
+      {
+        "field": "experience",
+        "source": "resume",
+        "method": "concatenate_sort_dedupe"
+      }
+    ],
+    "overall_confidence": 0.97
+  },
+  {
+    "candidate_id": "rahul-mehta-gmail-com",
+    "full_name": "Rahul Mehta",
+    "emails": [
+      "rahul.mehta@gmail.com"
+    ],
+    "phones": [
+      "+919988776655"
+    ],
+    "location": {
+      "city": null,
+      "region": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": null,
+    "years_experience": 4.0,
+    "skills": [
+      {
+        "name": "AWS",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "Apache Spark",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "Python",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "SQL",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": null,
+        "title": null,
+        "start": "2022-07",
+        "end": "present",
+        "summary": "Built Spark ETL jobs handling over 1TB daily."
+      }
+    ],
+    "education": [
+      {
+        "institution": null,
+        "degree": "B.Tech",
+        "field": null,
+        "end_year": null
+      }
+    ],
+    "salary_expectation": null,
+    "availability": null,
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "resume",
+        "method": "longest_string"
+      },
+      {
+        "field": "emails[rahul.mehta@gmail.com]",
+        "source": "csv",
+        "method": "normalize+union"
+      },
+      {
+        "field": "phones[+919988776655]",
+        "source": "csv",
+        "method": "e164_normalize+union"
+      },
+      {
+        "field": "skills[AWS]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[Apache Spark]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[Python]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[SQL]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "education",
+        "source": "resume",
+        "method": "concatenate_dedupe"
+      },
+      {
+        "field": "experience",
+        "source": "resume",
+        "method": "concatenate_sort_dedupe"
+      }
+    ],
+    "overall_confidence": 0.94
+  },
+  {
+    "candidate_id": "priya-nair-gmail-com",
+    "full_name": "Priya Nair",
+    "emails": [
+      "priya.nair@gmail.com"
+    ],
+    "phones": [
+      "+919876504321"
+    ],
+    "location": {
+      "city": null,
+      "region": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": null,
+    "years_experience": 4.5,
+    "skills": [
+      {
+        "name": "Machine Learning",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "PyTorch",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "Python",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "SQL",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "TensorFlow",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": null,
+        "title": null,
+        "start": "2022-01",
+        "end": "present",
+        "summary": "Worked on semantic segmentation and medical imaging."
+      }
+    ],
+    "education": [
+      {
+        "institution": null,
+        "degree": "M.Tech",
+        "field": null,
+        "end_year": null
+      }
+    ],
+    "salary_expectation": null,
+    "availability": null,
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "resume",
+        "method": "longest_string"
+      },
+      {
+        "field": "emails[priya.nair@gmail.com]",
+        "source": "csv",
+        "method": "normalize+union"
+      },
+      {
+        "field": "phones[+919876504321]",
+        "source": "csv",
+        "method": "e164_normalize+union"
+      },
+      {
+        "field": "skills[Machine Learning]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[PyTorch]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[Python]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[SQL]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[TensorFlow]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "education",
+        "source": "resume",
+        "method": "concatenate_dedupe"
+      },
+      {
+        "field": "experience",
+        "source": "resume",
+        "method": "concatenate_sort_dedupe"
+      }
+    ],
+    "overall_confidence": 0.97
+  },
+  {
+    "candidate_id": "arjun-iyer-gmail-com",
+    "full_name": "Arjun Iyer",
+    "emails": [
+      "arjun.iyer@gmail.com"
+    ],
+    "phones": [
+      "+919988123456"
+    ],
+    "location": {
+      "city": null,
+      "region": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": null,
+    "years_experience": 5.5,
+    "skills": [
+      {
+        "name": "AWS",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "Backend Development",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "Docker",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "Python",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "REST APIs",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": null,
+        "title": null,
+        "start": "2021-01",
+        "end": "present",
+        "summary": "Built cloud-native backend services."
+      }
+    ],
+    "education": [],
+    "salary_expectation": null,
+    "availability": null,
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "resume",
+        "method": "longest_string"
+      },
+      {
+        "field": "emails[arjun.iyer@gmail.com]",
+        "source": "csv",
+        "method": "normalize+union"
+      },
+      {
+        "field": "phones[+919988123456]",
+        "source": "csv",
+        "method": "e164_normalize+union"
+      },
+      {
+        "field": "skills[AWS]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[Backend Development]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[Docker]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[Python]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[REST APIs]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "experience",
+        "source": "resume",
+        "method": "concatenate_sort_dedupe"
+      }
+    ],
+    "overall_confidence": 0.94
+  },
+  {
+    "candidate_id": "sneha-kulkarni-gmail-com",
+    "full_name": "Sneha Kulkarni",
+    "emails": [
+      "sneha.kulkarni@gmail.com"
+    ],
+    "phones": [
+      "+919876123456"
+    ],
+    "location": {
+      "city": null,
+      "region": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": null,
+    "years_experience": 4.5,
+    "skills": [
+      {
+        "name": "AWS",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "Backend Development",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "Docker",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "JavaScript",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "Node.js",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "Python",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "REST APIs",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": null,
+        "title": null,
+        "start": "2022-01",
+        "end": "present",
+        "summary": "Developed backend APIs."
+      }
+    ],
+    "education": [
+      {
+        "institution": null,
+        "degree": "B.Tech",
+        "field": null,
+        "end_year": null
+      }
+    ],
+    "salary_expectation": null,
+    "availability": null,
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "resume",
+        "method": "longest_string"
+      },
+      {
+        "field": "emails[sneha.kulkarni@gmail.com]",
+        "source": "csv",
+        "method": "normalize+union"
+      },
+      {
+        "field": "phones[+919876123456]",
+        "source": "csv",
+        "method": "e164_normalize+union"
+      },
+      {
+        "field": "skills[AWS]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[Backend Development]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[Docker]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[JavaScript]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[Node.js]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[Python]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[REST APIs]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "education",
+        "source": "resume",
+        "method": "concatenate_dedupe"
+      },
+      {
+        "field": "experience",
+        "source": "resume",
+        "method": "concatenate_sort_dedupe"
+      }
+    ],
+    "overall_confidence": 0.97
+  },
+  {
+    "candidate_id": "vivek-rao-gmail-com",
+    "full_name": null,
+    "emails": [
+      "vivek.rao@gmail.com"
+    ],
+    "phones": [
+      "+919988771122"
+    ],
+    "location": {
+      "city": null,
+      "region": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": null,
+    "years_experience": null,
+    "skills": [],
+    "experience": [],
+    "education": [],
+    "salary_expectation": null,
+    "availability": null,
+    "provenance": [
+      {
+        "field": "emails[vivek.rao@gmail.com]",
+        "source": "csv",
+        "method": "normalize+union"
+      },
+      {
+        "field": "phones[+919988771122]",
+        "source": "csv",
+        "method": "e164_normalize+union"
+      }
+    ],
+    "overall_confidence": 0.75
+  },
+  {
+    "candidate_id": "jake-utexas-edu",
+    "full_name": null,
+    "emails": [
+      "jake@utexas.edu"
+    ],
+    "phones": [
+      "+15125551234"
+    ],
+    "location": {
+      "city": null,
+      "region": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": null,
+    "years_experience": null,
+    "skills": [],
+    "experience": [],
+    "education": [],
+    "salary_expectation": null,
+    "availability": null,
+    "provenance": [
+      {
+        "field": "emails[jake@utexas.edu]",
+        "source": "csv",
+        "method": "normalize+union"
+      },
+      {
+        "field": "phones[+15125551234]",
+        "source": "csv",
+        "method": "e164_normalize+union"
+      }
+    ],
+    "overall_confidence": 0.75
+  },
+  {
+    "candidate_id": "neha-gupta-gmail-com",
+    "full_name": null,
+    "emails": [
+      "neha.gupta@gmail.com"
+    ],
+    "phones": [
+      "+919123456789"
+    ],
+    "location": {
+      "city": null,
+      "region": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": null,
+    "years_experience": null,
+    "skills": [
+      {
+        "name": "CSS",
+        "confidence": 0.8,
+        "sources": [
+          "notes"
+        ]
+      },
+      {
+        "name": "JavaScript",
+        "confidence": 0.8,
+        "sources": [
+          "notes"
+        ]
+      },
+      {
+        "name": "React",
+        "confidence": 0.8,
+        "sources": [
+          "notes"
+        ]
+      },
+      {
+        "name": "TypeScript",
+        "confidence": 0.8,
+        "sources": [
+          "notes"
+        ]
+      }
+    ],
+    "experience": [],
+    "education": [],
+    "salary_expectation": "18 LPA",
+    "availability": null,
+    "provenance": [
+      {
+        "field": "emails[neha.gupta@gmail.com]",
+        "source": "csv",
+        "method": "normalize+union"
+      },
+      {
+        "field": "phones[+919123456789]",
+        "source": "csv",
+        "method": "e164_normalize+union"
+      },
+      {
+        "field": "skills[CSS]",
+        "source": "notes",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[JavaScript]",
+        "source": "notes",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[React]",
+        "source": "notes",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[TypeScript]",
+        "source": "notes",
+        "method": "canonical_union"
+      },
+      {
+        "field": "salary_expectation",
+        "source": "notes",
+        "method": "prefer_notes"
+      }
+    ],
+    "overall_confidence": 0.81
+  },
+  {
+    "candidate_id": "karan-gmail",
+    "full_name": null,
+    "emails": [
+      "karan@@gmail"
+    ],
+    "phones": [],
+    "location": {
+      "city": null,
+      "region": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": null,
+    "years_experience": null,
+    "skills": [],
+    "experience": [],
+    "education": [],
+    "salary_expectation": null,
+    "availability": null,
+    "provenance": [
+      {
+        "field": "emails[karan@@gmail]",
+        "source": "csv",
+        "method": "normalize+union"
+      }
+    ],
+    "overall_confidence": 0.72
+  },
+  {
+    "candidate_id": "ananya-desai-gmail-com",
+    "full_name": "ANANYA DESAI",
+    "emails": [
+      "ananya.desai@gmail.com"
+    ],
+    "phones": [
+      "+919012345678"
+    ],
+    "location": {
+      "city": null,
+      "region": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": null,
+    "years_experience": 5.9,
+    "skills": [
+      {
+        "name": "AWS",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "Artificial Intelligence",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "Docker",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "Git",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "Machine Learning",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "PyTorch",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "Python",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "SQL",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "TensorFlow",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": null,
+        "title": null,
+        "start": "2022-06",
+        "end": "present",
+        "summary": "\u2022 Designed defect detection models using CNNs. \u2022 Improved production inference latency by 30%. Software Engineer"
+      },
+      {
+        "company": null,
+        "title": null,
+        "start": "2020-07",
+        "end": "2022-05",
+        "summary": "\u2022 Built data preprocessing pipelines. \u2022 Automated model deployment."
+      }
+    ],
+    "education": [
+      {
+        "institution": null,
+        "degree": "B.Tech",
+        "field": null,
+        "end_year": null
+      }
+    ],
+    "salary_expectation": null,
+    "availability": null,
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "resume",
+        "method": "longest_string"
+      },
+      {
+        "field": "emails[ananya.desai@gmail.com]",
+        "source": "csv",
+        "method": "normalize+union"
+      },
+      {
+        "field": "phones[+919012345678]",
+        "source": "csv",
+        "method": "e164_normalize+union"
+      },
+      {
+        "field": "skills[AWS]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[Artificial Intelligence]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[Docker]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[Git]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[Machine Learning]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[PyTorch]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[Python]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[SQL]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[TensorFlow]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "education",
+        "source": "resume",
+        "method": "concatenate_dedupe"
+      },
+      {
+        "field": "experience",
+        "source": "resume",
+        "method": "concatenate_sort_dedupe"
+      }
+    ],
+    "overall_confidence": 0.97
+  },
+  {
+    "candidate_id": "rohan-verma-example-com",
+    "full_name": null,
+    "emails": [
+      "rohan.verma@example.com"
+    ],
+    "phones": [
+      "+919123456780"
+    ],
+    "location": {
+      "city": null,
+      "region": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": null,
+    "years_experience": null,
+    "skills": [],
+    "experience": [],
+    "education": [],
+    "salary_expectation": null,
+    "availability": null,
+    "provenance": [
+      {
+        "field": "emails[rohan.verma@example.com]",
+        "source": "csv",
+        "method": "normalize+union"
+      },
+      {
+        "field": "phones[+919123456780]",
+        "source": "csv",
+        "method": "e164_normalize+union"
+      }
+    ],
+    "overall_confidence": 0.75
+  },
+  {
+    "candidate_id": "jake-su-edu",
+    "full_name": "Jake Ryan",
+    "emails": [
+      "jake@su.edu"
+    ],
+    "phones": [
+      "+911234567890"
+    ],
+    "location": {
+      "city": null,
+      "region": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": null,
+    "years_experience": 14.1,
+    "skills": [
+      {
+        "name": "C",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "C++",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "CSS",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "Docker",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "Eclipse Libraries: pandas",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "FastAPI",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "FastAPI Developer Tools: Git",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "Flask",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "Frontend Development",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "Git",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "Google Cloud Platform",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "HTML",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "IntelliJ",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "JUnit",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "Java",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "JavaScript",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "Languages: Java",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "Material-UI",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "Matplotlib",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "Node.js",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "NumPy",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "Pandas",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "PostgreSQL",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "PyCharm",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "Python",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "R Frameworks: React",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "REST APIs",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "React",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "Redis",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "SQL",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "SQL (Postgres)",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "TravisCI",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "VS Code",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "Visual Studio",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "WordPress",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": null,
+        "title": null,
+        "start": "2020-06",
+        "end": "present",
+        "summary": "Texas A&M University College Station, TX \u2022 Developed a REST API using FastAPI and PostgreSQL to store data from learning management systems \u2022 Developed a full-stack web application using Flask, React, PostgreSQL and Docker to analyze GitHub data \u2022 Explored ways to visualize GitHub collaboration in a classroom setting"
+      },
+      {
+        "company": null,
+        "title": null,
+        "start": "2019-05",
+        "end": "2019-07",
+        "summary": "Southwestern University Georgetown, TX \u2022 Explored methods to generate video game dungeons based off of The Legend of Zelda \u2022 Developed a game in Java to test the generated dungeons \u2022 Contributed 50K+ lines of code to an established codebase via Git \u2022 Conducted a human subject study to determine which video game dungeon generation technique is enjoyable \u2022 Wrote an 8-page paper and gave multiple presentations on-campus \u2022 Presented virtually to the World Conference on Computational Intelligence"
+      },
+      {
+        "company": null,
+        "title": null,
+        "start": "2018-09",
+        "end": "present",
+        "summary": "Southwestern University Georgetown, TX \u2022 Communicate with managers to set up campus computers used on campus \u2022 Assess and troubleshoot computer problems brought by students, faculty and staff \u2022 Maintain upkeep of computers, classroom equipment, and 200 printers across campus"
+      }
+    ],
+    "education": [
+      {
+        "institution": null,
+        "degree": "Bachelor",
+        "field": "Computer Science",
+        "end_year": 2021
+      }
+    ],
+    "salary_expectation": null,
+    "availability": null,
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "resume",
+        "method": "longest_string"
+      },
+      {
+        "field": "emails[jake@su.edu]",
+        "source": "resume",
+        "method": "normalize+union"
+      },
+      {
+        "field": "phones[+911234567890]",
+        "source": "resume",
+        "method": "e164_normalize+union"
+      },
+      {
+        "field": "skills[C]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[C++]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[CSS]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[Docker]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[Eclipse Libraries: pandas]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[FastAPI]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[FastAPI Developer Tools: Git]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[Flask]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[Frontend Development]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[Git]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[Google Cloud Platform]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[HTML]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[IntelliJ]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[JUnit]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[Java]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[JavaScript]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[Languages: Java]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[Material-UI]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[Matplotlib]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[Node.js]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[NumPy]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[Pandas]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[PostgreSQL]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[PyCharm]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[Python]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[R Frameworks: React]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[REST APIs]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[React]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[Redis]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[SQL]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[SQL (Postgres)]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[TravisCI]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[VS Code]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[Visual Studio]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[WordPress]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "education",
+        "source": "resume",
+        "method": "concatenate_dedupe"
+      },
+      {
+        "field": "experience",
+        "source": "resume",
+        "method": "concatenate_sort_dedupe"
+      }
+    ],
+    "overall_confidence": 0.96
+  },
+  {
+    "candidate_id": "karan-patel",
+    "full_name": "Karan Patel",
+    "emails": [],
+    "phones": [],
+    "location": {
+      "city": null,
+      "region": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": null,
+    "years_experience": 3.5,
+    "skills": [
+      {
+        "name": "Linux",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "Python",
+        "confidence": 0.95,
+        "sources": [
+          "resume"
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": null,
+        "title": null,
+        "start": "2023-01",
+        "end": "present",
+        "summary": null
+      }
+    ],
+    "education": [],
+    "salary_expectation": null,
+    "availability": null,
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "resume",
+        "method": "longest_string"
+      },
+      {
+        "field": "skills[Linux]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[Python]",
+        "source": "resume",
+        "method": "canonical_union"
+      },
+      {
+        "field": "experience",
+        "source": "resume",
+        "method": "concatenate_sort_dedupe"
+      }
+    ],
+    "overall_confidence": 0.78
+  },
+  {
+    "candidate_id": "candidate-13",
+    "full_name": null,
+    "emails": [],
+    "phones": [],
+    "location": {
+      "city": null,
+      "region": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": null,
+    "years_experience": null,
+    "skills": [
+      {
+        "name": "Backend Development",
+        "confidence": 0.8,
+        "sources": [
+          "notes"
+        ]
+      },
+      {
+        "name": "Docker",
+        "confidence": 0.8,
+        "sources": [
+          "notes"
+        ]
+      },
+      {
+        "name": "Kubernetes",
+        "confidence": 0.8,
+        "sources": [
+          "notes"
+        ]
+      }
+    ],
+    "experience": [],
+    "education": [],
+    "salary_expectation": null,
+    "availability": "August",
+    "provenance": [
+      {
+        "field": "skills[Backend Development]",
+        "source": "notes",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[Docker]",
+        "source": "notes",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[Kubernetes]",
+        "source": "notes",
+        "method": "canonical_union"
+      },
+      {
+        "field": "availability",
+        "source": "notes",
+        "method": "prefer_notes"
+      }
+    ],
+    "overall_confidence": 0.68
+  },
+  {
+    "candidate_id": "candidate-14",
+    "full_name": null,
+    "emails": [],
+    "phones": [],
+    "location": {
+      "city": null,
+      "region": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": null,
+    "years_experience": null,
+    "skills": [],
+    "experience": [],
+    "education": [],
+    "salary_expectation": null,
+    "availability": "September",
+    "provenance": [
+      {
+        "field": "availability",
+        "source": "notes",
+        "method": "prefer_notes"
+      }
+    ],
+    "overall_confidence": 0.59
+  },
+  {
+    "candidate_id": "candidate-15",
+    "full_name": null,
+    "emails": [],
+    "phones": [],
+    "location": {
+      "city": null,
+      "region": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": null,
+    "years_experience": null,
+    "skills": [
+      {
+        "name": "Docker",
+        "confidence": 0.8,
+        "sources": [
+          "notes"
+        ]
+      },
+      {
+        "name": "Kubernetes",
+        "confidence": 0.8,
+        "sources": [
+          "notes"
+        ]
+      }
+    ],
+    "experience": [],
+    "education": [],
+    "salary_expectation": null,
+    "availability": "after 30",
+    "provenance": [
+      {
+        "field": "skills[Docker]",
+        "source": "notes",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[Kubernetes]",
+        "source": "notes",
+        "method": "canonical_union"
+      },
+      {
+        "field": "availability",
+        "source": "notes",
+        "method": "prefer_notes"
+      }
+    ],
+    "overall_confidence": 0.65
+  },
+  {
+    "candidate_id": "candidate-16",
+    "full_name": null,
+    "emails": [],
+    "phones": [],
+    "location": {
+      "city": null,
+      "region": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": null,
+    "years_experience": null,
+    "skills": [
+      {
+        "name": "C++",
+        "confidence": 0.8,
+        "sources": [
+          "notes"
+        ]
+      },
+      {
+        "name": "Java",
+        "confidence": 0.8,
+        "sources": [
+          "notes"
+        ]
+      },
+      {
+        "name": "Python",
+        "confidence": 0.8,
+        "sources": [
+          "notes"
+        ]
+      }
+    ],
+    "experience": [],
+    "education": [],
+    "salary_expectation": null,
+    "availability": "after 2",
+    "provenance": [
+      {
+        "field": "skills[C++]",
+        "source": "notes",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[Java]",
+        "source": "notes",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[Python]",
+        "source": "notes",
+        "method": "canonical_union"
+      },
+      {
+        "field": "availability",
+        "source": "notes",
+        "method": "prefer_notes"
+      }
+    ],
+    "overall_confidence": 0.68
+  },
+  {
+    "candidate_id": "candidate-17",
+    "full_name": null,
+    "emails": [],
+    "phones": [],
+    "location": {
+      "city": null,
+      "region": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": null,
+    "years_experience": null,
+    "skills": [],
+    "experience": [],
+    "education": [],
+    "salary_expectation": null,
+    "availability": null,
+    "provenance": [],
+    "overall_confidence": 0.0
+  },
+  {
+    "candidate_id": "candidate-18",
+    "full_name": null,
+    "emails": [],
+    "phones": [],
+    "location": {
+      "city": null,
+      "region": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": null,
+    "years_experience": null,
+    "skills": [
+      {
+        "name": "SQL",
+        "confidence": 0.8,
+        "sources": [
+          "notes"
+        ]
+      }
+    ],
+    "experience": [],
+    "education": [],
+    "salary_expectation": "20 LPA",
+    "availability": null,
+    "provenance": [
+      {
+        "field": "skills[SQL]",
+        "source": "notes",
+        "method": "canonical_union"
+      },
+      {
+        "field": "salary_expectation",
+        "source": "notes",
+        "method": "prefer_notes"
+      }
+    ],
+    "overall_confidence": 0.62
+  },
+  {
+    "candidate_id": "candidate-19",
+    "full_name": null,
+    "emails": [],
+    "phones": [],
+    "location": {
+      "city": null,
+      "region": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": null,
+    "years_experience": null,
+    "skills": [
+      {
+        "name": "Backend Development",
+        "confidence": 0.8,
+        "sources": [
+          "notes"
+        ]
+      },
+      {
+        "name": "JavaScript",
+        "confidence": 0.8,
+        "sources": [
+          "notes"
+        ]
+      },
+      {
+        "name": "Python",
+        "confidence": 0.8,
+        "sources": [
+          "notes"
+        ]
+      },
+      {
+        "name": "REST APIs",
+        "confidence": 0.8,
+        "sources": [
+          "notes"
+        ]
+      }
+    ],
+    "experience": [],
+    "education": [],
+    "salary_expectation": null,
+    "availability": null,
+    "provenance": [
+      {
+        "field": "skills[Backend Development]",
+        "source": "notes",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[JavaScript]",
+        "source": "notes",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[Python]",
+        "source": "notes",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[REST APIs]",
+        "source": "notes",
+        "method": "canonical_union"
+      }
+    ],
+    "overall_confidence": 0.68
+  },
+  {
+    "candidate_id": "candidate-20",
+    "full_name": null,
+    "emails": [],
+    "phones": [],
+    "location": {
+      "city": null,
+      "region": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": null,
+    "years_experience": null,
+    "skills": [
+      {
+        "name": "AWS",
+        "confidence": 0.8,
+        "sources": [
+          "notes"
+        ]
+      },
+      {
+        "name": "Kubernetes",
+        "confidence": 0.8,
+        "sources": [
+          "notes"
+        ]
+      }
+    ],
+    "experience": [],
+    "education": [],
+    "salary_expectation": "26 LPA",
+    "availability": null,
+    "provenance": [
+      {
+        "field": "skills[AWS]",
+        "source": "notes",
+        "method": "canonical_union"
+      },
+      {
+        "field": "skills[Kubernetes]",
+        "source": "notes",
+        "method": "canonical_union"
+      },
+      {
+        "field": "salary_expectation",
+        "source": "notes",
+        "method": "prefer_notes"
+      }
+    ],
+    "overall_confidence": 0.65
+  }
+]

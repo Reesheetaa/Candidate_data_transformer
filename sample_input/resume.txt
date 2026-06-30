@@ -1,0 +1,20 @@
+Aditi Sharma
+aditi.sharma@gmail.com
++91 98765 43210
+
+Skills
+Python, SQL, Django, Docker, AWS, REST APIs
+
+Experience
+
+Backend Engineer at TechNova (Jun 2023 - present)
+Built and maintained REST APIs serving 2M+ daily requests.
+Migrated batch jobs from cron to Airflow, cutting failure rate by 40%.
+
+Software Engineer at CloudWorks (Jan 2021 - May 2023)
+Developed microservices in Python and Go for the payments platform.
+Owned on-call rotation and incident response for core billing services.
+
+Education
+
+B.Tech in Computer Science, BMS College of Engineering, 2020

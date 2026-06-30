@@ -1,0 +1,41 @@
+Sneha Kulkarni
+
+Email
+
+Sneha.Kulkarni@gmail.com
+
+Phone
+
+98761-23456
+
+Skills
+
+Python
+Py
+python3
+Javascript
+JS
+NodeJS
+Node.js
+REST
+REST API
+Docker
+AWS
+
+Experience
+
+Software Engineer
+
+TechVista
+
+2022 – Present
+
+Developed backend APIs.
+
+Education
+
+B.Tech Information Technology
+
+VJTI Mumbai
+
+2021

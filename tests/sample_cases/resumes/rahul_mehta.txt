@@ -1,0 +1,37 @@
+Rahul Mehta
+
+Email:
+rahul.mehta@gmail.com
+
+Phone:
+99887-76655
+
+SUMMARY
+
+Data Engineer with experience designing ETL pipelines.
+
+Skills
+
+Python
+SQL
+Airflow
+Spark
+AWS
+
+Experience
+
+Data Engineer
+
+DataLabs
+
+July 2022 – Present
+
+Built Spark ETL jobs handling over 1TB daily.
+
+Education
+
+B.Tech Information Technology
+
+COEP Pune
+
+2022

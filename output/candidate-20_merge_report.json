@@ -1,0 +1,35 @@
+{
+  "candidate": {
+    "candidate_id": "candidate-20",
+    "overall_confidence": 0.65
+  },
+  "fields": [
+    {
+      "field": "skill:AWS",
+      "selected": "AWS",
+      "sources": [
+        "notes"
+      ],
+      "confidence": 0.8,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:Kubernetes",
+      "selected": "Kubernetes",
+      "sources": [
+        "notes"
+      ],
+      "confidence": 0.8,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "salary_expectation",
+      "selected": "26 LPA",
+      "sources": [
+        "notes"
+      ],
+      "confidence": 0.8,
+      "reason": "Recruiter notes preferred"
+    }
+  ]
+}

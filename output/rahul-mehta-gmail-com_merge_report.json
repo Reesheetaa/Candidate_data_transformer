@@ -1,0 +1,99 @@
+{
+  "candidate": {
+    "candidate_id": "rahul-mehta-gmail-com",
+    "overall_confidence": 0.94
+  },
+  "fields": [
+    {
+      "field": "full_name",
+      "candidates": [
+        {
+          "value": "Rahul Mehta",
+          "source": "resume"
+        }
+      ],
+      "selected": "Rahul Mehta",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Selected longest complete name"
+    },
+    {
+      "field": "emails",
+      "selected": [
+        "rahul.mehta@gmail.com"
+      ],
+      "sources": [
+        "csv"
+      ],
+      "confidence": 0.99,
+      "reason": "Normalized and deduplicated"
+    },
+    {
+      "field": "phones",
+      "selected": [
+        "+919988776655"
+      ],
+      "sources": [
+        "csv"
+      ],
+      "confidence": 0.99,
+      "reason": "Normalized to E.164 and deduplicated"
+    },
+    {
+      "field": "skill:AWS",
+      "selected": "AWS",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:Apache Spark",
+      "selected": "Apache Spark",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:Python",
+      "selected": "Python",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:SQL",
+      "selected": "SQL",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "education",
+      "selected": 1,
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Concatenated and deduplicated"
+    },
+    {
+      "field": "experience",
+      "selected": 1,
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged and sorted by start date"
+    }
+  ]
+}

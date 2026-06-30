@@ -1,0 +1,36 @@
+ADITI SHARMA
+
+Email: aditi.sharma@gmail.com
+Phone: +91-9876543210
+Location: Bengaluru, Karnataka
+
+PROFESSIONAL SUMMARY
+
+Backend Engineer with over five years of experience building scalable backend services using Python and Go.
+
+TECHNICAL SKILLS
+
+Python, Django, Go, SQL, AWS, Docker, REST APIs
+
+EXPERIENCE
+
+Backend Engineer
+TechNova
+June 2023 – Present
+
+• Built REST APIs serving over 2 million daily requests.
+• Reduced API latency by 35%.
+• Developed Dockerized microservices.
+
+Software Engineer
+CloudWorks
+January 2021 – May 2023
+
+• Developed Python microservices.
+• Implemented payment workflows.
+
+EDUCATION
+
+B.Tech Computer Science
+BMS College of Engineering
+2020

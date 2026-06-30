@@ -1,0 +1,44 @@
+{
+  "candidate": {
+    "candidate_id": "candidate-19",
+    "overall_confidence": 0.68
+  },
+  "fields": [
+    {
+      "field": "skill:Backend Development",
+      "selected": "Backend Development",
+      "sources": [
+        "notes"
+      ],
+      "confidence": 0.8,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:JavaScript",
+      "selected": "JavaScript",
+      "sources": [
+        "notes"
+      ],
+      "confidence": 0.8,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:Python",
+      "selected": "Python",
+      "sources": [
+        "notes"
+      ],
+      "confidence": 0.8,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:REST APIs",
+      "selected": "REST APIs",
+      "sources": [
+        "notes"
+      ],
+      "confidence": 0.8,
+      "reason": "Merged after canonicalization"
+    }
+  ]
+}

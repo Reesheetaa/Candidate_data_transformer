@@ -1,0 +1,38 @@
+Priya Nair
+
+Email
+
+priya.nair@gmail.com
+
+Phone
+
++91 9876504321
+
+Machine Learning Engineer
+
+Technical Skills
+
+Python
+PyTorch
+TensorFlow
+Machine Learning
+OpenCV
+SQL
+
+Experience
+
+Machine Learning Engineer
+
+VisionAI
+
+2022 – Present
+
+Worked on semantic segmentation and medical imaging.
+
+Education
+
+M.Tech Artificial Intelligence
+
+IIIT Hyderabad
+
+2022

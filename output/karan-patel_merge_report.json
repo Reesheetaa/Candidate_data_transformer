@@ -1,0 +1,50 @@
+{
+  "candidate": {
+    "candidate_id": "karan-patel",
+    "overall_confidence": 0.78
+  },
+  "fields": [
+    {
+      "field": "full_name",
+      "candidates": [
+        {
+          "value": "Karan Patel",
+          "source": "resume"
+        }
+      ],
+      "selected": "Karan Patel",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Selected longest complete name"
+    },
+    {
+      "field": "skill:Linux",
+      "selected": "Linux",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:Python",
+      "selected": "Python",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "experience",
+      "selected": 1,
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged and sorted by start date"
+    }
+  ]
+}

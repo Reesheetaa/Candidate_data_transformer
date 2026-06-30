@@ -1,0 +1,7 @@
+Candidate currently expects around 24 LPA.
+
+Strong Docker knowledge.
+
+Recently started using Kubernetes.
+
+Available after 30 days.

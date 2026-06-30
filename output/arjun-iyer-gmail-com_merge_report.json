@@ -1,0 +1,99 @@
+{
+  "candidate": {
+    "candidate_id": "arjun-iyer-gmail-com",
+    "overall_confidence": 0.94
+  },
+  "fields": [
+    {
+      "field": "full_name",
+      "candidates": [
+        {
+          "value": "Arjun Iyer",
+          "source": "resume"
+        }
+      ],
+      "selected": "Arjun Iyer",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Selected longest complete name"
+    },
+    {
+      "field": "emails",
+      "selected": [
+        "arjun.iyer@gmail.com"
+      ],
+      "sources": [
+        "csv"
+      ],
+      "confidence": 0.99,
+      "reason": "Normalized and deduplicated"
+    },
+    {
+      "field": "phones",
+      "selected": [
+        "+919988123456"
+      ],
+      "sources": [
+        "csv"
+      ],
+      "confidence": 0.99,
+      "reason": "Normalized to E.164 and deduplicated"
+    },
+    {
+      "field": "skill:AWS",
+      "selected": "AWS",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:Backend Development",
+      "selected": "Backend Development",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:Docker",
+      "selected": "Docker",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:Python",
+      "selected": "Python",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:REST APIs",
+      "selected": "REST APIs",
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "experience",
+      "selected": 1,
+      "sources": [
+        "resume"
+      ],
+      "confidence": 0.95,
+      "reason": "Merged and sorted by start date"
+    }
+  ]
+}

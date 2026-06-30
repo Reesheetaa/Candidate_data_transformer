@@ -1,0 +1,26 @@
+{
+  "candidate": {
+    "candidate_id": "candidate-18",
+    "overall_confidence": 0.62
+  },
+  "fields": [
+    {
+      "field": "skill:SQL",
+      "selected": "SQL",
+      "sources": [
+        "notes"
+      ],
+      "confidence": 0.8,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "salary_expectation",
+      "selected": "20 LPA",
+      "sources": [
+        "notes"
+      ],
+      "confidence": 0.8,
+      "reason": "Recruiter notes preferred"
+    }
+  ]
+}

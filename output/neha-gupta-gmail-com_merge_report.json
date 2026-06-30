@@ -1,0 +1,75 @@
+{
+  "candidate": {
+    "candidate_id": "neha-gupta-gmail-com",
+    "overall_confidence": 0.81
+  },
+  "fields": [
+    {
+      "field": "emails",
+      "selected": [
+        "neha.gupta@gmail.com"
+      ],
+      "sources": [
+        "csv"
+      ],
+      "confidence": 0.99,
+      "reason": "Normalized and deduplicated"
+    },
+    {
+      "field": "phones",
+      "selected": [
+        "+919123456789"
+      ],
+      "sources": [
+        "csv"
+      ],
+      "confidence": 0.99,
+      "reason": "Normalized to E.164 and deduplicated"
+    },
+    {
+      "field": "skill:CSS",
+      "selected": "CSS",
+      "sources": [
+        "notes"
+      ],
+      "confidence": 0.8,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:JavaScript",
+      "selected": "JavaScript",
+      "sources": [
+        "notes"
+      ],
+      "confidence": 0.8,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:React",
+      "selected": "React",
+      "sources": [
+        "notes"
+      ],
+      "confidence": 0.8,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:TypeScript",
+      "selected": "TypeScript",
+      "sources": [
+        "notes"
+      ],
+      "confidence": 0.8,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "salary_expectation",
+      "selected": "18 LPA",
+      "sources": [
+        "notes"
+      ],
+      "confidence": 0.8,
+      "reason": "Recruiter notes preferred"
+    }
+  ]
+}

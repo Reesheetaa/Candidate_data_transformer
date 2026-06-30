@@ -1,0 +1,44 @@
+{
+  "candidate": {
+    "candidate_id": "candidate-13",
+    "overall_confidence": 0.68
+  },
+  "fields": [
+    {
+      "field": "skill:Backend Development",
+      "selected": "Backend Development",
+      "sources": [
+        "notes"
+      ],
+      "confidence": 0.8,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:Docker",
+      "selected": "Docker",
+      "sources": [
+        "notes"
+      ],
+      "confidence": 0.8,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:Kubernetes",
+      "selected": "Kubernetes",
+      "sources": [
+        "notes"
+      ],
+      "confidence": 0.8,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "availability",
+      "selected": "August",
+      "sources": [
+        "notes"
+      ],
+      "confidence": 0.8,
+      "reason": "Recruiter notes preferred"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "candidate": {
+    "candidate_id": "candidate-16",
+    "overall_confidence": 0.68
+  },
+  "fields": [
+    {
+      "field": "skill:C++",
+      "selected": "C++",
+      "sources": [
+        "notes"
+      ],
+      "confidence": 0.8,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:Java",
+      "selected": "Java",
+      "sources": [
+        "notes"
+      ],
+      "confidence": 0.8,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:Python",
+      "selected": "Python",
+      "sources": [
+        "notes"
+      ],
+      "confidence": 0.8,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "availability",
+      "selected": "after 2",
+      "sources": [
+        "notes"
+      ],
+      "confidence": 0.8,
+      "reason": "Recruiter notes preferred"
+    }
+  ]
+}

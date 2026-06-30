@@ -1,0 +1,19 @@
+{
+  "candidate": {
+    "candidate_id": "karan-gmail",
+    "overall_confidence": 0.72
+  },
+  "fields": [
+    {
+      "field": "emails",
+      "selected": [
+        "karan@@gmail"
+      ],
+      "sources": [
+        "csv"
+      ],
+      "confidence": 0.99,
+      "reason": "Normalized and deduplicated"
+    }
+  ]
+}

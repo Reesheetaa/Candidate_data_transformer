@@ -1,0 +1,35 @@
+{
+  "candidate": {
+    "candidate_id": "candidate-15",
+    "overall_confidence": 0.65
+  },
+  "fields": [
+    {
+      "field": "skill:Docker",
+      "selected": "Docker",
+      "sources": [
+        "notes"
+      ],
+      "confidence": 0.8,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "skill:Kubernetes",
+      "selected": "Kubernetes",
+      "sources": [
+        "notes"
+      ],
+      "confidence": 0.8,
+      "reason": "Merged after canonicalization"
+    },
+    {
+      "field": "availability",
+      "selected": "after 30",
+      "sources": [
+        "notes"
+      ],
+      "confidence": 0.8,
+      "reason": "Recruiter notes preferred"
+    }
+  ]
+}
