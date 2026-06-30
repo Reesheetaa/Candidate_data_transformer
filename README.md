@@ -80,7 +80,7 @@ flowchart TB
 # Project Structure
 
 ```
-candidate-transformer/
+Candidate_data_transformer/
 │
 ├── config/
 │   ├── default_config.json
@@ -90,6 +90,11 @@ candidate-transformer/
 │
 ├── output/
 │
+├── tests/
+│   ├── sample_cases/
+|   │   ├── recruiter_notes/
+|   │   ├── resumes/
+|   │   └── recruiter.csv
 ├── src/
 │   ├── adapters/
 │   ├── extractors/
